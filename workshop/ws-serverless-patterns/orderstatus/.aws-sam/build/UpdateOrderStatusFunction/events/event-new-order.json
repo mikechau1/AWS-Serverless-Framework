@@ -1,0 +1,9 @@
+{
+  "restaurantId": 1,
+  "orderId": "934e9139-e318-4601-9a30-b1b162f81e41",
+  "orderItems": [
+    { "id": 1, "name": "Spaghetti", "price": 9.99, "quantity": 1 },
+    { "id": 2, "name": "Pizza - SMALL", "price": 4.99, "quantity": 2 }
+  ],
+  "totalAmount": 19.97
+}

@@ -1,0 +1,24 @@
+{
+    "data": {
+        "orderId": "4f1c7c7e-2d6a-4b8e-9a3f-1c2d3e4f5a6b",
+        "userId": "",
+        "restaurantId": 200,
+        "orderItems": [
+            {
+                "id": 1,
+                "name": "Spaghetti",
+                "price": 9.99,
+                "quantity": 1
+            },
+            {
+                "id": 2,
+                "name": "Pizza - SMALL",
+                "price": 4.99,
+                "quantity": 2
+            }
+        ],
+        "totalAmount": 19.97,
+        "status": "PLACED",
+        "orderTime": "2023-05-03T19:41:12Z"
+    }
+}
